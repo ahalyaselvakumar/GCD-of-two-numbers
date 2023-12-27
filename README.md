@@ -34,7 +34,7 @@ def gcd():
 ```
 
 ## Output:
-[OUTPUT](<Screenshot 2023-12-25 212658.png>)
+![OUTPUT](<Screenshot 2023-12-25 212658.png>)
 
 
 ## Result:
